@@ -23,5 +23,17 @@
 		},
 		"keywords": [],
 		"author": "",
-		"license": "ISC"
+		"license": "ISC",
+		"devDependencies": {
+				"autoprefixer-cli": "^1.0.0",
+				"browser-sync": "^2.23.6",
+				"globstar": "^1.0.0",
+				"jshint": "^2.9.5",
+				"mkdirp": "^0.5.1",
+				"node-sass": "^4.7.2",
+				"npm-run-all": "^4.1.2",
+				"nu-html-checker": "^0.1.0",
+				"onchange": "^3.3.0",
+				"rimraf": "^2.6.2"
+		}
 }
