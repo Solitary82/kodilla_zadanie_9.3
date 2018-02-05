@@ -8,8 +8,6 @@ var textReplaced = text.replace('Velociraptor', dinosaurUpperCased);
 
 var halfOfTextReplacedNumber = textReplaced.length/2;
 
-console.log(halfOfTextReplacedNumber);
-
-var halfOfText = textReplaced.slice(0, 72);
+var halfOfText = textReplaced.slice(0, halfOfTextReplacedNumber);
 
 console.log(halfOfText);
